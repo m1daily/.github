@@ -1,11 +1,8 @@
-![](https://komarev.com/ghpvc/?username=m1daily)
-![](https://img.shields.io/github/followers/m1daily)
-![](https://img.shields.io/twitter/follow/mito1daily)
-
+<img src="images/daily_back.png">
 
 ### 🧐 About Us
  - #### SNS
-   - Twitter: [@mito1daily](https://twitter.com/mito1daily)
+   - Twitter: <a href="https://twitter.com/mito1daily"><img src="https://img.shields.io/twitter/follow/mito1daily"></a>
 
 ### 🚀 Our Projects
 - [時間割Bot](https://github.com/Geusen/Schedule_Bot) - M1の時間割が更新されたらTwitter,LINE,Discordに送信
@@ -13,5 +10,4 @@
 
 
 ### ⚡ Status
-![](https://img.shields.io/github/followers/m1daily?style=social)
-![](https://img.shields.io/github/stars/m1daily?style=social)
+- GitHubフォロワー: ![](https://img.shields.io/github/followers/m1daily)

@@ -15,4 +15,3 @@
 ### ⚡ Status
 ![](https://img.shields.io/github/followers/m1daily?style=social)
 ![](https://img.shields.io/github/stars/m1daily?style=social)
-![](https://img.shields.io/github/sponsors/m1daily)

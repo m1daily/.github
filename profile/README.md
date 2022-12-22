@@ -1,4 +1,4 @@
-<img src="images/daily_back.png">
+<img src="./profile/images/daily_back.png">
 
 ### 🧐 About Us
  - #### SNS

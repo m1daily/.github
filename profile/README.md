@@ -18,4 +18,5 @@
 
 ### ⚡ Status
 ![](https://img.shields.io/github/followers/m1daily?style=social)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Geusen)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://img.shields.io/github/stars/m1daily?style=social)
+![](https://img.shields.io/github/sponsors/m1daily)

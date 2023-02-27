@@ -2,12 +2,20 @@
 
 ### 🧐 About Us
  - #### SNS
-   - Twitter: <a href="https://twitter.com/mito1daily"><img src="https://img.shields.io/twitter/follow/mito1daily"></a>
+   - Twitter: <a href="https://twitter.com/mito1daily"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+   - LINE(グループ): <a href="http://line.me/ti/g/_8lUquMsgk"><img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white"></a>
+   - Discord: <a href="http://discord.gg/bC6XJnYa9f"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 ### 🚀 Our Projects
 - [時間割Bot](https://github.com/Geusen/Schedule_Bot) - M1の時間割が更新されたらTwitter,LINE,Discordに送信
-- [mito1dailyHP](https://github.com/m1daily/mito1daily) - mito1dailyのホームページです
+- [mito1dailyHP](https://github.com/m1daily/mito1daily) - mito1dailyのホームページ
+- [M1-Notify](https://github.com/m1daily/m1notify) - M1の時間割通知 ブラウザ版
+- [M1-Answer](https://github.com/m1daily/M1-Answer)- プリント解答集
 
 
 ### ⚡ Status
-- GitHubフォロワー: ![](https://img.shields.io/github/followers/m1daily)
+- GitHubフォロワー: ![](https://img.shields.io/github/followers/m1daily?style=for-the-badge)
+
+### 📂 Main Repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m1daily&repo=Schedule_Bot)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m1daily&repo=mito1daily)](https://github.com/anuraghazra/github-readme-stats)

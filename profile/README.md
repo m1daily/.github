@@ -17,5 +17,5 @@
 - GitHubフォロワー: <img src="https://img.shields.io/github/followers/m1daily?style=for-the-badge" height="20em" style="position: relative; top: 1.8em;">
 
 ### 📂 Main Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m1daily&repo=Schedule_Bot)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m1daily&repo=mito1daily)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m1daily&repo=Schedule_Bot)](https://github.com/m1daily/Schedule_Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m1daily&repo=mito1daily)](https://github.com/m1daily/mito1daily)

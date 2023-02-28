@@ -2,9 +2,9 @@
 
 ### 🧐 About Us
  - #### SNS
-   - Twitter: <a href="https://twitter.com/mito1daily"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="20em" style="position: relative; top: 1.8em;"></a>
-   - LINE(グループ): <a href="http://line.me/ti/g/_8lUquMsgk"><img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" height="20em" style="position: relative; top: 1.8em;"></a>
-   - Discord: <a href="http://discord.gg/bC6XJnYa9f"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="20em" style="position: relative; top: 1.8em;"></a>
+   - <a href="https://twitter.com/mito1daily"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="20em" style="position: relative; top: 1.8em;"></a>
+   - <a href="http://line.me/ti/g/_8lUquMsgk"><img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" height="20em" style="position: relative; top: 1.8em;"></a>
+   - <a href="http://discord.gg/bC6XJnYa9f"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="20em" style="position: relative; top: 1.8em;"></a>
 
 ### 🚀 Our Projects
 - [時間割Bot](https://github.com/Geusen/Schedule_Bot) - M1の時間割が更新されたらTwitter,LINE,Discordに送信
